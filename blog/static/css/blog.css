@@ -1,3 +1,7 @@
+cover {
+	background: url('/static/image/dota.jpg');
+}
+
 .page-header {
     background-color: #C25100;
     margin-top: 0;
